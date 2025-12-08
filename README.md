@@ -4,11 +4,14 @@ This is an app for tracking new releases in the field of films, games, and other
 
 ## About The Project
 
+The project uses Tailwind CSS v4. He is designed for Safari 16.4+, Chrome 111+, and Firefox 128+. If you need to support older browsers, please downgrade to v3.4 until your browser support requirements change.
+
 ### Built With
 
 - Vite (with Rolldown) v7.2.5
 - React v19.2
 - TS v5.9.3
+- Tailwind CSS v4.1.17
 
 ## Getting Started
 
