@@ -2,10 +2,10 @@
 
 This is an app for tracking new releases in the field of films, games, and other things.
 
+
 ## About The Project
 
-You can configure browser support in the file `.browserslistrc`.
-The project uses Tailwind CSS v4. He is designed for Safari 16.4+, Chrome 111+, and Firefox 128+. If you need to support older browsers, please downgrade to v3 until your browser support requirements change.
+
 
 ### Built With
 
@@ -13,6 +13,12 @@ The project uses Tailwind CSS v4. He is designed for Safari 16.4+, Chrome 111+, 
 - React v19.2
 - TS v5.9.3
 - Tailwind CSS v4.1.17
+
+## Browser support
+
+You can configure browser support in the file `.browserslistrc`.
+The project uses Tailwind CSS v4. He is designed for Safari 16.4+, Chrome 111+, and Firefox 128+. If you need to support older browsers, please downgrade to v3 until your browser support requirements change.
+
 
 ## Getting Started
 
